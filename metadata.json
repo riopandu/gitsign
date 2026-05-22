@@ -1,0 +1,6 @@
+{
+  "name": "Gitsign",
+  "description": "An interactive, futuristic GitLab AI Agent dashboard with neon blue accents, featuring real-time repo sync, smart pipeline/issue analysis, and automated code review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
